@@ -1,2 +1,8 @@
-# DDOS-FALLEGA
-𝐅𝐀𝐋𝐋𝐄𝐆𝐀 𝐓𝐄𝐀𝐌
+# FALLEGA TEAM TNIK EL KOL 
+
+      ████          
+     █         █         
+    █           █        
+   ███████      
+  █                █     
+     
