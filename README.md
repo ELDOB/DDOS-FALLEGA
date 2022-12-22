@@ -1,6 +1,6 @@
-# FALLEGA TEAM TNIK EL KOL 
+# FRONT TEAM TNIK EL KOL 
 
- cd DDOS-FALLEGA
+ cd DDOS-FRONT
  
  Python3 DOB.py 
  
@@ -8,7 +8,7 @@
  
  Port 
  
- FALLEGA TNIK EL KOL 
+ FRONT TNIK EL KOL 
   
 
    
